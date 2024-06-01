@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋,I'm Parsa Kharazi
 
 <!--
 **parsakharazi10/parsakharazi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey there, I'm Parsa Kharazi!
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; B.Sc. in petroleum engineering at [Amirkabir University of Technology](https://aut.ac.ir/)
