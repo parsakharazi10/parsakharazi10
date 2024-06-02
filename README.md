@@ -25,3 +25,22 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pkharazi1080@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/parsakharazi)
 ---
+
+<h2>
+  🔨 Languages and Tools<br><br>
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,vscode,fastapi,Pytorch,Tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,postgres,mysql,cpp,c,git" />
+  </a>
+</p>
+
+## Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parsakharazi10&show_icons=true&theme=monokai" alt="Parsa Kharazi's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parsakharazi10&theme=monokai" alt="Parsa Kharazi's Github Steak" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsakharazi10&langs_count=6&theme=dark" alt="Parsa Kharazi's Github Steak" />
+</p>
