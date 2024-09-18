@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; B.Sc. in petroleum engineering at [Amirkabir University of Technology](https://aut.ac.ir/)
-- 🤔 &nbsp; Researching about AI applications in different aspects of Petroleum, Chemical, Polymer, and Energy engineering .
+- 🤔 &nbsp; Researching about AI applications in Energy engineering .
 - 🌱 &nbsp; Learning more about data science, machine learning, and implementation of different aspects of Feature engineering.
 - ⚡️ &nbsp; Learning fast, without ignoring details.
 - 📫 You can reach me by:<br><br>
