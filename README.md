@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,fastapi,Pytorch,Tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=pytorch,postgres,mysql,cpp,c,git,js,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,fastapi,Pytorch,Tensorflow,c,git,js,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=pytorch,postgres,mysql,cpp" />
   </a>
 </p>
 
